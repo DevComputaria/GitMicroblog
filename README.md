@@ -51,7 +51,8 @@ Aonde cada conteudo adicioando com ```-m``` será um paragrafo e efetuará uma q
 Ou podemos fazer da seguinte forma para adicionar quebra de linha na mensagem do commit : 
 
 ```
-git commit -a -m $'Commit title\n\nRest of commit message...```
+git commit -a -m $'Commit title\n\nRest of commit message...
+```
 
 
 **SEGUNDO METODO**
