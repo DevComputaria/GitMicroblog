@@ -1,6 +1,13 @@
 # GitMicroblog
 :book: GitMIcroblogging do DevComputaria - Transformando commits 
 
+<p align="center">
+	<a href="https://gitmoji.dev">
+		<img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+			 alt="Gitmoji">
+	</a>
+</p>
+
 
 ## Inspirado no projeto [Logit](https://github.com/agentofuser/logit) 
 
@@ -87,7 +94,15 @@ Do site de documentos do VS Code: VS Code as Git editor
 ![](https://camo.githubusercontent.com/bf5f7978d906c64eeb81ddf2cb1d9fb83c7ad125a2fb4c89eecafb8c6aebe917/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f70643465712e676966)
 
 
+## Usando emojis nas mensagens dos commits
 
+Usar emojis em mensagens de commit fornece uma maneira fácil de identificar o propósito ou intenção de um commit olhando apenas para os emojis usados. Como existem muitos emojis diferentes, podemos usar como referência o projeto [Gitmoji](https://github.com/carloscuesta/gitmoji), mas tambem podemos consultar a documentação no projeto com uma lista de todos os emojis em markdown suportados para utilização na mensagens de commit, exemplo: 
+
+```
+:memo: Adicionado documetação ao projeto
+```
+
+:memo: Adicionado documentação ao projeto
 
 
 ## Feeds I know
