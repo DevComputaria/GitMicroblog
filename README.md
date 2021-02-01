@@ -1,7 +1,9 @@
 # GitMicroblog
 :book: GitMIcroblogging do DevComputaria - Transformando commits 
 
-[![Join the chat at https://gitter.im/dotnet/csharplang](https://badges.gitter.im/dotnet/csharplang.svg)](https://gitter.im/DevComputariaCE/community) [![Chat on Discord](https://discordapp.com/api/guilds/143867839282020352/widget.png)](https://discord.gg/jxbC46p3mk)[![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)](https://gitmoji.dev)
+[![Join the chat at https://gitter.im/dotnet/csharplang](https://badges.gitter.im/dotnet/csharplang.svg)](https://gitter.im/DevComputariaCE/community) 
+[![Chat on Discord](https://discordapp.com/api/guilds/804917151059935242/widget.png)](https://discord.gg/jxbC46p3mk)
+[![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)](https://gitmoji.dev)
 
 
 ## Inspirado no projeto [Logit](https://github.com/agentofuser/logit) 
